@@ -1,0 +1,35 @@
+_repo: LeadworkOld-and-Ornamental-and-for-the-most-part-English_41544
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41544-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lethaby, W. R. (William Richard)
+    alias: Lethaby, William Richard
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '25114'
+    url: http://www.gutenberg.org/2009/agents/25114
+    wikipedia: http://en.wikipedia.org/wiki/William_Lethaby
+description: ''
+gutenberg_issued: '2013-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41544'
+  lccn: '02017010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Leadwork'
+tableOfContents: Of material and craftsmanship -- An historical sketch -- Of lead
+  coverings to buildings -- Of leaded spires and turrets -- Of domes -- Of roofs --
+  Of lead coffins -- Of fonts -- Of inscriptions, etc. -- Of the decoration of lead
+  -- Of lead ornamentation of other materials -- Of decorative objects -- Of lead
+  glazing -- Of lead statues -- Of lead fountains -- Of vases and gate piers -- Of
+  finials and crestings -- Of cisterns, etc. -- Of gutters -- Of pipes and pipe heads.
+title: Leadwork, Old and Ornamental and for the most part English
+url: http://www.gutenberg.org/ebooks/41544
